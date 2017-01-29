@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {UploadFileComponent} from './upload-file.component'
 
 @Component({
   selector: 'app-root',
